@@ -1,0 +1,13 @@
+<object logicalId="qrm:/Meta_editor/MetaEditor/Inheritance/{014c7178-6968-49f3-9235-f4199b1e9d1b}" id="qrm:/Meta_editor/MetaEditor/Inheritance/{6772b67c-38b1-40fe-a0a8-ef754192eea8}" parent="qrm:/Meta_editor/MetaEditor/MetamodelDiagram/{7a28ab32-e03d-469c-a382-91379cb79fac}">
+  <children/>
+  <properties>
+    <QPolygon key="configuration" value="0, 0 : 104, 293 : "/>
+    <qReal::Id key="from" value="qrm:/Meta_editor/MetaEditor/MetaEntityNode/{5cda56d1-10dc-4ed6-a1a9-0f1a838bb08d}"/>
+    <double key="fromPort" value="3.6"/>
+    <links type="qReal::IdList"/>
+    <QString key="name" value="ubiqKeyboardInput_Inherits_ubiqDiagramElement"/>
+    <QPointF key="position" value="-114, 24"/>
+    <qReal::Id key="to" value="qrm:/Meta_editor/MetaEditor/MetaEntityNode/{b97d63ab-6dab-4dfb-8227-e891327b737b}"/>
+    <double key="toPort" value="2.5"/>
+  </properties>
+</object>

@@ -1,0 +1,13 @@
+<object logicalId="qrm:/UbiqMetamodel/UbiqDiagram/UbiqReceive/{c5322af9-5725-4ac0-b9cc-5895be4c2873}" id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqReceive/{ad29bd58-2ba6-4025-bf01-97f2fb60f8dc}" parent="qrm:/UbiqMetamodel/UbiqDiagram/UbiqDiagramNode/{5f961b93-853d-4d3c-9c28-3eb43e9028fd}">
+  <children/>
+  <properties>
+    <QPolygon key="configuration" value="0, 0 : 159, 0 : 159, 51 : 0, 51 : "/>
+    <qReal::Id key="from" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>
+    <double key="fromPort" value="0"/>
+    <links type="qReal::IdList"/>
+    <QString key="name" value="ololo-2"/>
+    <QPointF key="position" value="150, 1"/>
+    <qReal::Id key="to" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>
+    <double key="toPort" value="0"/>
+  </properties>
+</object>

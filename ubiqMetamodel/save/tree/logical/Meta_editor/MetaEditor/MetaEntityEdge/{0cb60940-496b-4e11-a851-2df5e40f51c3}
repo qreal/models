@@ -1,0 +1,24 @@
+<object id="qrm:/Meta_editor/MetaEditor/MetaEntityEdge/{0cb60940-496b-4e11-a851-2df5e40f51c3}" parent="qrm:/Meta_editor/MetaEditor/MetaEditorDiagramNode/{c53fd770-c5a7-4f21-9eff-191df0821752}">
+  <children>
+    <object id="qrm:/Meta_editor/MetaEditor/MetaEntityAssociation/{236fba59-9f2f-488d-b3a8-1dd23c62dc52}"/>
+    <object id="qrm:/Meta_editor/MetaEditor/MetaEntityPossibleEdge/{d5bb9d2a-2dbc-4af6-bed1-236e51c48aa6}"/>
+  </children>
+  <properties>
+    <QPolygon key="configuration" value=""/>
+    <QString key="displayedName" value="Поток управления"/>
+    <qReal::Id key="from" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>
+    <double key="fromPort" value="0"/>
+    <incomingConnections type="qReal::IdList"/>
+    <incomingUsages type="qReal::IdList"/>
+    <QString key="labelText" value=""/>
+    <QString key="labelType" value=""/>
+    <QString key="lineType" value="solidLine"/>
+    <links type="qReal::IdList"/>
+    <QString key="name" value="ubiqControlFlow"/>
+    <outgoingConnections type="qReal::IdList"/>
+    <outgoingUsages type="qReal::IdList"/>
+    <QPointF key="position" value="450, 410"/>
+    <qReal::Id key="to" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>
+    <double key="toPort" value="0"/>
+  </properties>
+</object>
