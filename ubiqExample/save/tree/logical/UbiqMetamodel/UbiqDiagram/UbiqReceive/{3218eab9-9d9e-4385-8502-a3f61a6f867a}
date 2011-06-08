@@ -1,14 +1,14 @@
-<object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqState/{3779e479-b149-440f-8b8e-327cc3fee4be}" parent="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID">
+<object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqReceive/{3218eab9-9d9e-4385-8502-a3f61a6f867a}" parent="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID">
   <children/>
   <properties>
     <qReal::Id key="from" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>
     <incomingConnections type="qReal::IdList"/>
     <incomingUsages type="qReal::IdList"/>
     <links type="qReal::IdList">
-      <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{3cb8a252-9692-4788-adb1-d5645cc42b54}"/>
-      <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{91c219f7-70f4-4993-b022-aa11172c021f}"/>
+      <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{b1b15aa7-c771-4b60-a483-01e9454c5a81}"/>
+      <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{ed486492-bf92-47f3-8e1e-c447f3862cb1}"/>
     </links>
-    <QString key="name" value="(Состояние)"/>
+    <QString key="name" value="(Приём сигнала)"/>
     <outgoingConnections type="qReal::IdList"/>
     <outgoingUsages type="qReal::IdList"/>
     <qReal::Id key="to" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>

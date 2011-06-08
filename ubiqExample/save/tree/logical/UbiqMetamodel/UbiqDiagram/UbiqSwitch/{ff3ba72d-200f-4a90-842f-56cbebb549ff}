@@ -5,7 +5,13 @@
     <qReal::Id key="from" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>
     <incomingConnections type="qReal::IdList"/>
     <incomingUsages type="qReal::IdList"/>
-    <links type="qReal::IdList"/>
+    <links type="qReal::IdList">
+      <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{1b7c37fe-8164-4831-a222-5b2bf1be2f4b}"/>
+      <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{05d39231-547f-46bc-96e3-9e93abf44965}"/>
+      <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{dcaff708-11c6-4203-b514-993ec9c09d35}"/>
+      <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{119a07a0-d6b2-4b12-8c35-050f5470c1c2}"/>
+      <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{3cb8a252-9692-4788-adb1-d5645cc42b54}"/>
+    </links>
     <QString key="name" value="(Ветвление)"/>
     <outgoingConnections type="qReal::IdList"/>
     <outgoingUsages type="qReal::IdList"/>

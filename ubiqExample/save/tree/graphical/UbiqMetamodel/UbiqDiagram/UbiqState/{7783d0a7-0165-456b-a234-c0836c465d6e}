@@ -1,0 +1,16 @@
+<object logicalId="qrm:/UbiqMetamodel/UbiqDiagram/UbiqState/{97e3e946-3d9a-482e-8532-5404126386a6}" id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqState/{7783d0a7-0165-456b-a234-c0836c465d6e}" parent="qrm:/UbiqMetamodel/UbiqDiagram/UbiqDiagramNode/{5f961b93-853d-4d3c-9c28-3eb43e9028fd}">
+  <children/>
+  <properties>
+    <QPolygon key="configuration" value="0, 0 : 200, 0 : 200, 50 : 0, 50 : "/>
+    <qReal::Id key="from" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>
+    <double key="fromPort" value="0"/>
+    <links type="qReal::IdList">
+      <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{8bfc4740-f498-4fa2-8e6d-d2a54d956b6b}"/>
+      <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{5127ad58-34ed-4c25-b900-1f57fdb6160e}"/>
+    </links>
+    <QString key="name" value="(Состояние)"/>
+    <QPointF key="position" value="100, 450"/>
+    <qReal::Id key="to" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>
+    <double key="toPort" value="0"/>
+  </properties>
+</object>

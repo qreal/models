@@ -1,13 +1,13 @@
-<object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{91c219f7-70f4-4993-b022-aa11172c021f}" parent="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID">
+<object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{3cb8a252-9692-4788-adb1-d5645cc42b54}" parent="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID">
   <children/>
   <properties>
     <qReal::Id key="from" value="qrm:/UbiqMetamodel/UbiqDiagram/UbiqState/{3779e479-b149-440f-8b8e-327cc3fee4be}"/>
     <incomingConnections type="qReal::IdList"/>
     <incomingUsages type="qReal::IdList"/>
     <links type="qReal::IdList"/>
-    <QString key="name" value="(ubiqControlFlow)"/>
+    <QString key="name" value="(anonymous something)"/>
     <outgoingConnections type="qReal::IdList"/>
     <outgoingUsages type="qReal::IdList"/>
-    <qReal::Id key="to" value="qrm:/UbiqMetamodel/UbiqDiagram/UbiqIf/{7165b75f-4ed4-4439-a8b5-93fe47c2cd97}"/>
+    <qReal::Id key="to" value="qrm:/UbiqMetamodel/UbiqDiagram/UbiqSwitch/{ff3ba72d-200f-4a90-842f-56cbebb549ff}"/>
   </properties>
 </object>

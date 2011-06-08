@@ -11,6 +11,27 @@
     <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqSwitch/{ff3ba72d-200f-4a90-842f-56cbebb549ff}"/>
     <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqOperator/{713622bb-7699-4f6c-8c9b-182832f437c3}"/>
     <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqConditionalCall/{5f9812bc-9de9-4956-a42e-7c08b23313ca}"/>
+    <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{3cb8a252-9692-4788-adb1-d5645cc42b54}"/>
+    <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{dcaff708-11c6-4203-b514-993ec9c09d35}"/>
+    <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{05d39231-547f-46bc-96e3-9e93abf44965}"/>
+    <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{119a07a0-d6b2-4b12-8c35-050f5470c1c2}"/>
+    <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{1b7c37fe-8164-4831-a222-5b2bf1be2f4b}"/>
+    <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqConditionalCall/{4eee5f3a-bc10-41ef-bc69-de458ec22fa6}"/>
+    <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqDiagramNode/{8ddf1de7-b991-4204-be91-f8924dbcf8c5}"/>
+    <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqIf/{ffb23279-b72e-4b69-a589-386ac08226b1}"/>
+    <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqKeyboardInput/{08571640-2592-428b-9e85-5cc5117491d8}"/>
+    <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqOperator/{e619565a-4ddd-46e2-be5f-40f205e575c9}"/>
+    <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqOperator/{9b4211a9-3a78-4324-821a-4000b7bde767}"/>
+    <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqReceive/{3218eab9-9d9e-4385-8502-a3f61a6f867a}"/>
+    <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqState/{97e3e946-3d9a-482e-8532-5404126386a6}"/>
+    <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqSwitch/{52fc8656-64e0-4851-b749-8d5e75d00032}"/>
+    <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{a5a3f1a3-4bc0-4797-92c0-67ee9becf0f3}"/>
+    <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{008a591a-95cd-48cc-ac86-5f138cf9405d}"/>
+    <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{b1b15aa7-c771-4b60-a483-01e9454c5a81}"/>
+    <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{ed486492-bf92-47f3-8e1e-c447f3862cb1}"/>
+    <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{3254c5e9-b869-4f73-8781-2fa7a7ba2484}"/>
+    <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{f1246fd5-b38b-4a8e-a17e-680790fcb165}"/>
+    <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqKeyboardInput/{e1f02700-c345-45c0-8537-3c8beaa60a76}"/>
   </children>
   <properties>
     <QString key="name" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>

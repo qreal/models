@@ -1,0 +1,13 @@
+<object logicalId="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{008a591a-95cd-48cc-ac86-5f138cf9405d}" id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{4f7d863f-5bfa-4cbd-9e10-995dbe2a6236}" parent="qrm:/UbiqMetamodel/UbiqDiagram/UbiqDiagramNode/{5f961b93-853d-4d3c-9c28-3eb43e9028fd}">
+  <children/>
+  <properties>
+    <QPolygon key="configuration" value="0, 0 : 0, 50 : "/>
+    <qReal::Id key="from" value="qrm:/UbiqMetamodel/UbiqDiagram/UbiqKeyboardInput/{126409dc-9a7a-44bf-89aa-9de32abb70a0}"/>
+    <double key="fromPort" value="1.5"/>
+    <links type="qReal::IdList"/>
+    <QString key="name" value="(anonymous something)"/>
+    <QPointF key="position" value="200, 100"/>
+    <qReal::Id key="to" value="qrm:/UbiqMetamodel/UbiqDiagram/UbiqOperator/{f5c3818e-d4c0-4922-b112-8165ab7c885f}"/>
+    <double key="toPort" value="0.5"/>
+  </properties>
+</object>

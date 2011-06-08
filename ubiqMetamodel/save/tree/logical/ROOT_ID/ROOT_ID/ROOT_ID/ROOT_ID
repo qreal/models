@@ -1,8 +1,7 @@
 <object id="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID" parent="qrm:/">
   <children>
-    <object id="qrm:/Meta_editor/MetaEditor/PackageDiagram/{e4cb34ec-e6c5-4daf-b612-c6e479f6da7d}"/>
-    <object id="qrm:/Meta_editor/MetaEditor/MetamodelDiagram/{e22ff702-8842-4fa9-b580-b7ef97308e5b}"/>
-    <object id="qrm:/Meta_editor/MetaEditor/MetamodelDiagram/{7a28ab32-e03d-469c-a382-91379cb79fac}"/>
+    <object id="qrm:/Meta_editor/MetaEditor/PackageDiagram/{f3968d5a-b5c8-42c9-ad9f-38df7ffbf1e2}"/>
+    <object id="qrm:/Meta_editor/MetaEditor/MetamodelDiagram/{27842b3f-c97a-41d4-8737-d067c2ce7454}"/>
   </children>
   <properties>
     <QString key="name" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>

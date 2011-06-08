@@ -1,0 +1,16 @@
+<object logicalId="qrm:/UbiqMetamodel/UbiqDiagram/UbiqReceive/{3218eab9-9d9e-4385-8502-a3f61a6f867a}" id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqReceive/{8d6a807c-3ab6-4053-99ab-b5803809fa65}" parent="qrm:/UbiqMetamodel/UbiqDiagram/UbiqDiagramNode/{5f961b93-853d-4d3c-9c28-3eb43e9028fd}">
+  <children/>
+  <properties>
+    <QPolygon key="configuration" value="0, 0 : 200, 0 : 200, 50 : 0, 50 : "/>
+    <qReal::Id key="from" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>
+    <double key="fromPort" value="0"/>
+    <links type="qReal::IdList">
+      <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{129859d6-fcfe-4869-83fe-8399d402ab0f}"/>
+      <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{0b4359d4-c828-46a4-a988-745fa903eff0}"/>
+    </links>
+    <QString key="name" value="(Приём сигнала)"/>
+    <QPointF key="position" value="100, 250"/>
+    <qReal::Id key="to" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>
+    <double key="toPort" value="0"/>
+  </properties>
+</object>

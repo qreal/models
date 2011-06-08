@@ -1,0 +1,29 @@
+<object id="qrm:/Meta_editor/MetaEditor/MetaEntityNode/{1fcd6b5a-f879-47d9-ba86-e5353845cb4f}" parent="qrm:/Meta_editor/MetaEditor/MetaEditorDiagramNode/{a107fe13-b778-4582-beb1-c46bb02fd95d}">
+  <children>
+    <object id="qrm:/Meta_editor/MetaEditor/MetaEntity_Attribute/{2e4f9a9b-188f-4523-aa7b-52f83ada7dcf}"/>
+  </children>
+  <properties>
+    <QPolygon key="configuration" value=""/>
+    <QString key="displayedName" value="Оператор"/>
+    <qReal::Id key="from" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>
+    <double key="fromPort" value="0"/>
+    <incomingConnections type="qReal::IdList"/>
+    <incomingUsages type="qReal::IdList"/>
+    <QString key="isAction" value=""/>
+    <QString key="isPin" value=""/>
+    <QString key="isResizeable" value=""/>
+    <QString key="isView" value=""/>
+    <QString key="language" value=""/>
+    <links type="qReal::IdList">
+      <object id="qrm:/Meta_editor/MetaEditor/Inheritance/{1e803efd-025c-4423-959f-745f21195fb1}"/>
+    </links>
+    <QString key="name" value="ubiqOperator"/>
+    <outgoingConnections type="qReal::IdList"/>
+    <outgoingUsages type="qReal::IdList"/>
+    <QString key="path" value=""/>
+    <QPointF key="position" value="250, 280"/>
+    <QString key="shape" value="&lt;graphics>&#xa; &lt;picture sizex=&quot;200&quot; sizey=&quot;50&quot;>&#xa;  &lt;rectangle fill=&quot;#ffffff&quot; stroke-style=&quot;solid&quot; stroke=&quot;#000000&quot; y1=&quot;0&quot; stroke-width=&quot;1&quot; x1=&quot;0&quot; y2=&quot;50&quot; fill-style=&quot;none&quot; x2=&quot;200&quot;/>&#xa; &lt;/picture>&#xa; &lt;labels>&#xa;  &lt;label x=&quot;20&quot; y=&quot;10&quot; textBinded=&quot;code&quot;/>&#xa; &lt;/labels>&#xa; &lt;ports>&#xa;  &lt;linePort>&#xa;   &lt;start startx=&quot;10&quot; starty=&quot;0&quot;/>&#xa;   &lt;end endx=&quot;190&quot; endy=&quot;0&quot;/>&#xa;  &lt;/linePort>&#xa;  &lt;linePort>&#xa;   &lt;start startx=&quot;10&quot; starty=&quot;50&quot;/>&#xa;   &lt;end endx=&quot;190&quot; endy=&quot;50&quot;/>&#xa;  &lt;/linePort>&#xa;  &lt;linePort>&#xa;   &lt;start startx=&quot;200&quot; starty=&quot;10&quot;/>&#xa;   &lt;end endx=&quot;200&quot; endy=&quot;40&quot;/>&#xa;  &lt;/linePort>&#xa;  &lt;linePort>&#xa;   &lt;start startx=&quot;0&quot; starty=&quot;10&quot;/>&#xa;   &lt;end endx=&quot;0&quot; endy=&quot;40&quot;/>&#xa;  &lt;/linePort>&#xa; &lt;/ports>&#xa;&lt;/graphics>&#xa;"/>
+    <qReal::Id key="to" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>
+    <double key="toPort" value="0"/>
+  </properties>
+</object>

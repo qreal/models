@@ -1,0 +1,22 @@
+<object id="qrm:/Meta_editor/MetaEditor/PackageDiagram/{f3968d5a-b5c8-42c9-ad9f-38df7ffbf1e2}" parent="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID">
+  <children>
+    <object id="qrm:/Meta_editor/MetaEditor/MetamodelDiagram/{b2adb2fc-34f4-45cb-8275-c7294f0152e4}"/>
+  </children>
+  <properties>
+    <QPolygon key="configuration" value=""/>
+    <QString key="displayedName" value="Package"/>
+    <qReal::Id key="from" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>
+    <double key="fromPort" value="0"/>
+    <incomingConnections type="qReal::IdList"/>
+    <incomingUsages type="qReal::IdList"/>
+    <QString key="isView" value=""/>
+    <QString key="language" value=""/>
+    <links type="qReal::IdList"/>
+    <QString key="name" value="Package"/>
+    <outgoingConnections type="qReal::IdList"/>
+    <outgoingUsages type="qReal::IdList"/>
+    <QPointF key="position" value="0, 0"/>
+    <qReal::Id key="to" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>
+    <double key="toPort" value="0"/>
+  </properties>
+</object>

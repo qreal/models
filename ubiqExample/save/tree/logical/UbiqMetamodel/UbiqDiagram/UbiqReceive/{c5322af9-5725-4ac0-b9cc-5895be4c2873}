@@ -4,7 +4,11 @@
     <qReal::Id key="from" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>
     <incomingConnections type="qReal::IdList"/>
     <incomingUsages type="qReal::IdList"/>
-    <links type="qReal::IdList"/>
+    <links type="qReal::IdList">
+      <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{1b7c37fe-8164-4831-a222-5b2bf1be2f4b}"/>
+      <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{05d39231-547f-46bc-96e3-9e93abf44965}"/>
+      <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{dcaff708-11c6-4203-b514-993ec9c09d35}"/>
+    </links>
     <QString key="name" value="ololo-2"/>
     <outgoingConnections type="qReal::IdList"/>
     <outgoingUsages type="qReal::IdList"/>
