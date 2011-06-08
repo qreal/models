@@ -1,12 +1,12 @@
 <object logicalId="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{240130ff-de80-45b5-a685-fabd15127b0b}" id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{613ec831-a252-40b9-8733-9a239234556f}" parent="qrm:/UbiqMetamodel/UbiqDiagram/UbiqDiagramNode/{5f961b93-853d-4d3c-9c28-3eb43e9028fd}">
   <children/>
   <properties>
-    <QPolygon key="configuration" value="0, 0 : -17, 203 : -271, 238 : "/>
+    <QPolygon key="configuration" value="0, 0 : 58, 203 : -127, 285 : "/>
     <qReal::Id key="from" value="qrm:/UbiqMetamodel/UbiqDiagram/UbiqSplit/{e0fd357b-fb86-4e19-9a43-03a7c4493dd0}"/>
-    <double key="fromPort" value="0.75"/>
+    <double key="fromPort" value="0.0210526"/>
     <links type="qReal::IdList"/>
     <QString key="name" value="(anonymous something)"/>
-    <QPointF key="position" value="387.5, 353"/>
+    <QPointF key="position" value="312.4, 353"/>
     <qReal::Id key="to" value="qrm:/UbiqMetamodel/UbiqDiagram/UbiqSwitch/{8d71c2ad-409e-46a8-8009-4c4a76a2e56a}"/>
     <double key="toPort" value="2.5"/>
   </properties>

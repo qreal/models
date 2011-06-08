@@ -12,7 +12,7 @@
     <QString key="name" value="(Приём сигнала)"/>
     <outgoingConnections type="qReal::IdList"/>
     <outgoingUsages type="qReal::IdList"/>
-    <QString key="parameters" value=""/>
+    <QString key="parameters" value="zvcbvc"/>
     <qReal::Id key="to" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>
   </properties>
 </object>

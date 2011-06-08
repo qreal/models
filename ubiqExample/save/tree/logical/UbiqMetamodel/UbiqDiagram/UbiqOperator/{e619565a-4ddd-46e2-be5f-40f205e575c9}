@@ -1,7 +1,7 @@
 <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqOperator/{e619565a-4ddd-46e2-be5f-40f205e575c9}" parent="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID">
   <children/>
   <properties>
-    <QString key="code" value=""/>
+    <QString key="code" value="fdagfdagdfg"/>
     <qReal::Id key="from" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>
     <incomingConnections type="qReal::IdList"/>
     <incomingUsages type="qReal::IdList"/>
@@ -12,7 +12,7 @@
     <QString key="name" value="(Оператор)"/>
     <outgoingConnections type="qReal::IdList"/>
     <outgoingUsages type="qReal::IdList"/>
-    <QString key="stereotype" value=""/>
+    <QString key="stereotype" value="fdgfdg"/>
     <qReal::Id key="to" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>
   </properties>
 </object>

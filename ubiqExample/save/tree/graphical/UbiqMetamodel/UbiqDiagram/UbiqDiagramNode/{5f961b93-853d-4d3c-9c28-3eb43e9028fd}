@@ -18,6 +18,7 @@
     <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{613ec831-a252-40b9-8733-9a239234556f}"/>
     <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{220d0e4b-ce71-4eae-9c8c-4bbaaf90dad9}"/>
     <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqSplit/{e0fd357b-fb86-4e19-9a43-03a7c4493dd0}"/>
+    <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqSplit/{126f7308-0f5b-49ab-8dd0-7ebdf8f9f549}"/>
   </children>
   <properties>
     <QPolygon key="configuration" value=""/>

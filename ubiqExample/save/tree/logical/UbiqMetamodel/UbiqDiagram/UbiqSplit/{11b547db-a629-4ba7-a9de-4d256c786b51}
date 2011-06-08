@@ -5,8 +5,8 @@
     <incomingConnections type="qReal::IdList"/>
     <incomingUsages type="qReal::IdList"/>
     <links type="qReal::IdList">
-      <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{34921cbe-8ef7-489c-b362-adf62906a00b}"/>
       <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{bc13bdc2-7525-42b9-a9fa-b57583f17e94}"/>
+      <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{34921cbe-8ef7-489c-b362-adf62906a00b}"/>
       <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{240130ff-de80-45b5-a685-fabd15127b0b}"/>
     </links>
     <QString key="name" value="(Разделение потоков)"/>

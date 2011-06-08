@@ -11,8 +11,8 @@
     <double key="fromPort" value="0"/>
     <incomingConnections type="qReal::IdList"/>
     <incomingUsages type="qReal::IdList"/>
-    <QString key="labelText" value=""/>
-    <QString key="labelType" value=""/>
+    <QString key="labelText" value="Guard"/>
+    <QString key="labelType" value="Dynamic text"/>
     <QString key="labels" value="    &lt;labels>&#xa;        &lt;label textBinded=&quot;Guard&quot;/>&#xa;    &lt;/labels>&#xa;"/>
     <QString key="lineType" value="solidLine"/>
     <links type="qReal::IdList"/>

@@ -1,0 +1,13 @@
+<object logicalId="qrm:/UbiqMetamodel/UbiqDiagram/UbiqSplit/{ec9ce284-a34c-4d5b-871b-0eebc945d2eb}" id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqSplit/{126f7308-0f5b-49ab-8dd0-7ebdf8f9f549}" parent="qrm:/UbiqMetamodel/UbiqDiagram/UbiqDiagramNode/{5f961b93-853d-4d3c-9c28-3eb43e9028fd}">
+  <children/>
+  <properties>
+    <QPolygon key="configuration" value="0, 0 : 50, 0 : 50, 5 : 0, 5 : "/>
+    <qReal::Id key="from" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>
+    <double key="fromPort" value="0"/>
+    <links type="qReal::IdList"/>
+    <QString key="name" value="(Разделение потоков)"/>
+    <QPointF key="position" value="548, 408"/>
+    <qReal::Id key="to" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>
+    <double key="toPort" value="0"/>
+  </properties>
+</object>

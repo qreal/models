@@ -5,8 +5,8 @@
     <qReal::Id key="from" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>
     <double key="fromPort" value="0"/>
     <links type="qReal::IdList">
-      <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{e13c4dce-d35e-4f09-b063-7bd9396685e2}"/>
       <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{220d0e4b-ce71-4eae-9c8c-4bbaaf90dad9}"/>
+      <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{e13c4dce-d35e-4f09-b063-7bd9396685e2}"/>
       <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{613ec831-a252-40b9-8733-9a239234556f}"/>
     </links>
     <QString key="name" value="(Разделение потоков)"/>

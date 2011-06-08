@@ -39,6 +39,7 @@
     <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{240130ff-de80-45b5-a685-fabd15127b0b}"/>
     <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{bc13bdc2-7525-42b9-a9fa-b57583f17e94}"/>
     <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqSplit/{11b547db-a629-4ba7-a9de-4d256c786b51}"/>
+    <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqSplit/{ec9ce284-a34c-4d5b-871b-0eebc945d2eb}"/>
   </children>
   <properties>
     <QString key="name" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>
