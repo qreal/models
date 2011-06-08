@@ -7,10 +7,12 @@
     <links type="qReal::IdList">
       <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{b1b15aa7-c771-4b60-a483-01e9454c5a81}"/>
       <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{ed486492-bf92-47f3-8e1e-c447f3862cb1}"/>
+      <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{34921cbe-8ef7-489c-b362-adf62906a00b}"/>
     </links>
     <QString key="name" value="(Приём сигнала)"/>
     <outgoingConnections type="qReal::IdList"/>
     <outgoingUsages type="qReal::IdList"/>
+    <QString key="parameters" value=""/>
     <qReal::Id key="to" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>
   </properties>
 </object>

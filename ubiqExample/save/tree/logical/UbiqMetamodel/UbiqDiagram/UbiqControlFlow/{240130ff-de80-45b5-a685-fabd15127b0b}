@@ -1,0 +1,14 @@
+<object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{240130ff-de80-45b5-a685-fabd15127b0b}" parent="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID">
+  <children/>
+  <properties>
+    <QString key="Guard" value=""/>
+    <qReal::Id key="from" value="qrm:/UbiqMetamodel/UbiqDiagram/UbiqSplit/{11b547db-a629-4ba7-a9de-4d256c786b51}"/>
+    <incomingConnections type="qReal::IdList"/>
+    <incomingUsages type="qReal::IdList"/>
+    <links type="qReal::IdList"/>
+    <QString key="name" value="(anonymous something)"/>
+    <outgoingConnections type="qReal::IdList"/>
+    <outgoingUsages type="qReal::IdList"/>
+    <qReal::Id key="to" value="qrm:/UbiqMetamodel/UbiqDiagram/UbiqSwitch/{52fc8656-64e0-4851-b749-8d5e75d00032}"/>
+  </properties>
+</object>

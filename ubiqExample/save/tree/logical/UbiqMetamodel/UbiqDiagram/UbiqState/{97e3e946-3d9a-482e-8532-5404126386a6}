@@ -7,6 +7,7 @@
     <links type="qReal::IdList">
       <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{3254c5e9-b869-4f73-8781-2fa7a7ba2484}"/>
       <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{f1246fd5-b38b-4a8e-a17e-680790fcb165}"/>
+      <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{bc13bdc2-7525-42b9-a9fa-b57583f17e94}"/>
     </links>
     <QString key="name" value="(Состояние)"/>
     <outgoingConnections type="qReal::IdList"/>

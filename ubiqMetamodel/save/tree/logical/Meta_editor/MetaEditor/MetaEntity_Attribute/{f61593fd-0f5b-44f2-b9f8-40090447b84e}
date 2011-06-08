@@ -1,0 +1,21 @@
+<object id="qrm:/Meta_editor/MetaEditor/MetaEntity_Attribute/{f61593fd-0f5b-44f2-b9f8-40090447b84e}" parent="qrm:/Meta_editor/MetaEditor/MetaEntityNode/{b01c90b7-9b3c-4d62-8255-2fe572525f77}">
+  <children/>
+  <properties>
+    <QString key="attributeType" value="string"/>
+    <QPolygon key="configuration" value=""/>
+    <QString key="defaultValue" value=""/>
+    <QString key="displayedName" value="условие"/>
+    <qReal::Id key="from" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>
+    <double key="fromPort" value="0"/>
+    <incomingConnections type="qReal::IdList"/>
+    <incomingUsages type="qReal::IdList"/>
+    <links type="qReal::IdList"/>
+    <QString key="name" value="condition"/>
+    <outgoingConnections type="qReal::IdList"/>
+    <outgoingUsages type="qReal::IdList"/>
+    <QPointF key="position" value="0, 0"/>
+    <qReal::Id key="to" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>
+    <double key="toPort" value="0"/>
+    <QString key="type" value="string"/>
+  </properties>
+</object>

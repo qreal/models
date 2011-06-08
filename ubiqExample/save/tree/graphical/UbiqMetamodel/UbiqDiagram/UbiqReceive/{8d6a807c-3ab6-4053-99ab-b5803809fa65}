@@ -7,6 +7,7 @@
     <links type="qReal::IdList">
       <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{129859d6-fcfe-4869-83fe-8399d402ab0f}"/>
       <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{0b4359d4-c828-46a4-a988-745fa903eff0}"/>
+      <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{e13c4dce-d35e-4f09-b063-7bd9396685e2}"/>
     </links>
     <QString key="name" value="(Приём сигнала)"/>
     <QPointF key="position" value="100, 250"/>

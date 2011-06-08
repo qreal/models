@@ -14,6 +14,10 @@
     <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{0b4359d4-c828-46a4-a988-745fa903eff0}"/>
     <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{8bfc4740-f498-4fa2-8e6d-d2a54d956b6b}"/>
     <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{5127ad58-34ed-4c25-b900-1f57fdb6160e}"/>
+    <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{e13c4dce-d35e-4f09-b063-7bd9396685e2}"/>
+    <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{613ec831-a252-40b9-8733-9a239234556f}"/>
+    <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{220d0e4b-ce71-4eae-9c8c-4bbaaf90dad9}"/>
+    <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqSplit/{e0fd357b-fb86-4e19-9a43-03a7c4493dd0}"/>
   </children>
   <properties>
     <QPolygon key="configuration" value=""/>

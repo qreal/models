@@ -1,7 +1,7 @@
 <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqIf/{ffb23279-b72e-4b69-a589-386ac08226b1}" parent="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID">
   <children/>
   <properties>
-    <QString key="condition" value=""/>
+    <QString key="condition" value="tfert"/>
     <qReal::Id key="from" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>
     <incomingConnections type="qReal::IdList"/>
     <incomingUsages type="qReal::IdList"/>

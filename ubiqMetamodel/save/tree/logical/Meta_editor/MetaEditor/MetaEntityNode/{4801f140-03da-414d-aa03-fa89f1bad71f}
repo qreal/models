@@ -1,0 +1,36 @@
+<object id="qrm:/Meta_editor/MetaEditor/MetaEntityNode/{4801f140-03da-414d-aa03-fa89f1bad71f}" parent="qrm:/Meta_editor/MetaEditor/MetaEditorDiagramNode/{236fa8e6-4665-49a4-93eb-a4bb0eb8f030}">
+  <children/>
+  <properties>
+    <QPolygon key="configuration" value=""/>
+    <QString key="displayedName" value=""/>
+    <qReal::Id key="from" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>
+    <double key="fromPort" value="0"/>
+    <incomingConnections type="qReal::IdList"/>
+    <incomingUsages type="qReal::IdList"/>
+    <QString key="isAction" value=""/>
+    <QString key="isPin" value=""/>
+    <QString key="isResizeable" value=""/>
+    <QString key="isView" value=""/>
+    <QString key="language" value=""/>
+    <links type="qReal::IdList">
+      <object id="qrm:/Meta_editor/MetaEditor/Inheritance/{1ff7870d-fdfe-45fa-bdc3-44f72d70fc41}"/>
+      <object id="qrm:/Meta_editor/MetaEditor/Inheritance/{eef72e4c-2ba8-440f-a86a-23d9838fdcbb}"/>
+      <object id="qrm:/Meta_editor/MetaEditor/Inheritance/{a70ce29d-30c0-4666-9437-b411d3d5f1ae}"/>
+      <object id="qrm:/Meta_editor/MetaEditor/Inheritance/{91c088f8-935f-4d00-a5a6-110db9687826}"/>
+      <object id="qrm:/Meta_editor/MetaEditor/Inheritance/{c6beafa7-4d2c-450a-a0f7-48dd2a8eca27}"/>
+      <object id="qrm:/Meta_editor/MetaEditor/Inheritance/{f65c4de8-f451-4ded-84bc-8945c5cf4e79}"/>
+      <object id="qrm:/Meta_editor/MetaEditor/Inheritance/{9b640b2a-3cbb-4869-9a64-95480f74caad}"/>
+      <object id="qrm:/Meta_editor/MetaEditor/Inheritance/{f3a4e62e-7ed1-4b75-89cf-1200b2fe31ea}"/>
+      <object id="qrm:/Meta_editor/MetaEditor/Inheritance/{7ae3ac49-0729-4237-a3e1-562427b47604}"/>
+      <object id="qrm:/Meta_editor/MetaEditor/Container/{9a0d85ba-d88d-44d5-8976-759da12a62e1}"/>
+    </links>
+    <QString key="name" value="ubiqDiagramElement"/>
+    <outgoingConnections type="qReal::IdList"/>
+    <outgoingUsages type="qReal::IdList"/>
+    <QString key="path" value=""/>
+    <QPointF key="position" value="50, 280"/>
+    <QString key="shape" value=""/>
+    <qReal::Id key="to" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>
+    <double key="toPort" value="0"/>
+  </properties>
+</object>

@@ -1,0 +1,29 @@
+<object id="qrm:/Meta_editor/MetaEditor/MetaEntityNode/{b01c90b7-9b3c-4d62-8255-2fe572525f77}" parent="qrm:/Meta_editor/MetaEditor/MetaEditorDiagramNode/{236fa8e6-4665-49a4-93eb-a4bb0eb8f030}">
+  <children>
+    <object id="qrm:/Meta_editor/MetaEditor/MetaEntity_Attribute/{f61593fd-0f5b-44f2-b9f8-40090447b84e}"/>
+  </children>
+  <properties>
+    <QPolygon key="configuration" value=""/>
+    <QString key="displayedName" value="If"/>
+    <qReal::Id key="from" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>
+    <double key="fromPort" value="0"/>
+    <incomingConnections type="qReal::IdList"/>
+    <incomingUsages type="qReal::IdList"/>
+    <QString key="isAction" value=""/>
+    <QString key="isPin" value=""/>
+    <QString key="isResizeable" value=""/>
+    <QString key="isView" value=""/>
+    <QString key="language" value=""/>
+    <links type="qReal::IdList">
+      <object id="qrm:/Meta_editor/MetaEditor/Inheritance/{9b640b2a-3cbb-4869-9a64-95480f74caad}"/>
+    </links>
+    <QString key="name" value="ubiqIf"/>
+    <outgoingConnections type="qReal::IdList"/>
+    <outgoingUsages type="qReal::IdList"/>
+    <QString key="path" value=""/>
+    <QPointF key="position" value="250, 590"/>
+    <QString key="shape" value="&lt;graphics>&#xa; &lt;picture sizex=&quot;50&quot; sizey=&quot;50&quot;>&#xa;  &lt;line fill=&quot;#ffffff&quot; stroke-style=&quot;solid&quot; stroke=&quot;#000000&quot; y1=&quot;0&quot; stroke-width=&quot;0&quot; x1=&quot;25&quot; y2=&quot;25&quot; fill-style=&quot;none&quot; x2=&quot;0&quot;/>&#xa;  &lt;line fill=&quot;#ffffff&quot; stroke-style=&quot;solid&quot; stroke=&quot;#000000&quot; y1=&quot;25&quot; stroke-width=&quot;0&quot; x1=&quot;0&quot; y2=&quot;50&quot; fill-style=&quot;none&quot; x2=&quot;25&quot;/>&#xa;  &lt;line fill=&quot;#ffffff&quot; stroke-style=&quot;solid&quot; stroke=&quot;#000000&quot; y1=&quot;50&quot; stroke-width=&quot;0&quot; x1=&quot;25&quot; y2=&quot;25&quot; fill-style=&quot;none&quot; x2=&quot;50&quot;/>&#xa;  &lt;line fill=&quot;#ffffff&quot; stroke-style=&quot;solid&quot; stroke=&quot;#000000&quot; y1=&quot;25&quot; stroke-width=&quot;0&quot; x1=&quot;50&quot; y2=&quot;0&quot; fill-style=&quot;none&quot; x2=&quot;25&quot;/>&#xa; &lt;/picture>&#xa; &lt;labels>&#xa;  &lt;label x=&quot;5&quot; y=&quot;10&quot; textBinded=&quot;condition&quot;/>&#xa; &lt;/labels>&#xa; &lt;ports>&#xa;  &lt;pointPort x=&quot;0&quot; y=&quot;25&quot;/>&#xa;  &lt;pointPort x=&quot;25&quot; y=&quot;0&quot;/>&#xa;  &lt;pointPort x=&quot;50&quot; y=&quot;25&quot;/>&#xa; &lt;/ports>&#xa;&lt;/graphics>&#xa;"/>
+    <qReal::Id key="to" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>
+    <double key="toPort" value="0"/>
+  </properties>
+</object>

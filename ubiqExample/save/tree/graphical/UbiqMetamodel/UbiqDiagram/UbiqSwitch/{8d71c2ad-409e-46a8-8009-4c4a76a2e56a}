@@ -6,9 +6,10 @@
     <double key="fromPort" value="0"/>
     <links type="qReal::IdList">
       <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{5127ad58-34ed-4c25-b900-1f57fdb6160e}"/>
+      <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{613ec831-a252-40b9-8733-9a239234556f}"/>
     </links>
     <QString key="name" value="(Ветвление)"/>
-    <QPointF key="position" value="100, 550"/>
+    <QPointF key="position" value="148, 600"/>
     <qReal::Id key="to" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>
     <double key="toPort" value="0"/>
   </properties>

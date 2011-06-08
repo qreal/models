@@ -1,6 +1,7 @@
 <object id="qrm:/UbiqMetamodel/UbiqDiagram/UbiqControlFlow/{ed486492-bf92-47f3-8e1e-c447f3862cb1}" parent="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID">
   <children/>
   <properties>
+    <QString key="Guard" value=""/>
     <qReal::Id key="from" value="qrm:/UbiqMetamodel/UbiqDiagram/UbiqReceive/{3218eab9-9d9e-4385-8502-a3f61a6f867a}"/>
     <incomingConnections type="qReal::IdList"/>
     <incomingUsages type="qReal::IdList"/>
