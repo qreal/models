@@ -15,7 +15,7 @@
       <object id="qrm:/Meta_editor/MetaEditor/Inheritance/{cddfb604-f7fa-48c8-9a51-b76e72187986}"/>
       <object id="qrm:/Meta_editor/MetaEditor/Container/{2b6d20a2-f74b-4cb4-a1b2-4dceae0d605b}"/>
     </links>
-    <QString key="name" value="DiagramNode"/>
+    <QString key="name" value="RobotsDiagramNode"/>
     <outgoingConnections type="qReal::IdList"/>
     <outgoingUsages type="qReal::IdList"/>
     <QString key="path" value="10, 0 : 90, 0 : 90, 100 : 10, 100 : 0, 90 : 0, 10 : 100, 10 : 100, 90 : "/>
