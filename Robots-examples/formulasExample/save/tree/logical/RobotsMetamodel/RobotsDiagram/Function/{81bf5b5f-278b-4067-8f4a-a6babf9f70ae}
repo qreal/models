@@ -1,7 +1,7 @@
 <object id="qrm:/RobotsMetamodel/RobotsDiagram/Function/{81bf5b5f-278b-4067-8f4a-a6babf9f70ae}" parent="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID">
   <children/>
   <properties>
-    <QString key="Body" value="var double L = Сенсор1; double Sold = L; 0"/>
+    <QString key="Body" value="     L = Сенсор1; Sold = L"/>
     <qReal::Id key="from" value="qrm:/ROOT_ID/ROOT_ID/ROOT_ID/ROOT_ID"/>
     <incomingConnections type="qReal::IdList"/>
     <incomingUsages type="qReal::IdList"/>
